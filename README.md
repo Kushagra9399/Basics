@@ -1,0 +1,3 @@
+Hey, Welcome.
+Most coding in Python.
+Quick Leaner...
